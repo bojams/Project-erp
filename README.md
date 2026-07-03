@@ -55,7 +55,7 @@ npm -v
 ### 1. 📥 Clone Project
 
 ```bash
-git clone https://github.com/XFPY/Project-erp.git
+git clone https://github.com/bojams/Project-erp.git
 cd Project-erp
 ```
 
@@ -228,4 +228,4 @@ cd backend && touch database/hideo.sqlite && php artisan migrate --seed
 
 ---
 
-<p align="center">Dibuat dengan ❤️ — XFPY</p>
+<p align="center">Dibuat dengan ❤️ — bojams</p>
